@@ -1,3 +1,7 @@
+# Deep Patel
+**`Software Engineering Student @ Ryerson University`**
+
+
 - 👋 Hi, I’m Deep Patel
 - 👀 I’m interested in Full Stack Software Development
 - 🌱 I’m currently learning JavaScript and SQL
