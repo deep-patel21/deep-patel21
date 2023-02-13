@@ -4,13 +4,13 @@
 * Contact: deepstudios21@gmail.com
 
 # Skills and Tools
-![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&?style=for-the-badge)
+![HTML](https://custom-icon-badges.demolab.com/badge/HTML-000?&logo=html5&?style=for-the-badge)
+![CSS](https://custom-icon-badges.demolab.com/badge/CSS-000?&logo=css3&?style=for-the-badge)
+![JavaScript](https://custom-icon-badges.demolab.com/-JavaScript-000?&logo=JavaScript&?style=for-the-badge)
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&?style=for-the-badge)
-![C](https://img.shields.io/badge/-C-000?&logo=C&?style=for-the-badge)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-000?&logo=Java&logoColor=007396&?style=for-the-badge)
+![Python](https://custom-icon-badges.demolab.com/badge/-Python-000?&logo=Python&?style=for-the-badge)
+![C](https://custom-icon-badges.demolab.com/badge/-C-000?&logo=C&?style=for-the-badge)
 
 
 
