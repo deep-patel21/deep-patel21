@@ -1,7 +1,8 @@
-## Deep Patel
+# Deep Patel
 **`Student @ Toronto Metropolitan University`**
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
+* <a href="https://www.linkedin.com/in/deep-patel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
 
 # Skills and Tools
 ![HTML](https://custom-icon-badges.demolab.com/badge/HTML-000?&logo=html5&?style=for-the-badge)
