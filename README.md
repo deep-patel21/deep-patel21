@@ -3,8 +3,10 @@
 ![githubgif](https://user-images.githubusercontent.com/103757105/220807401-d840230e-8488-418e-b7f2-26ff804ecacd.gif)
 
 <h3 align="center">
-  Hey! I'm Deep Patel.
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>
+  <div>
+    Hey! I'm Deep Patel.
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
+  </div>
 </h3>
 
 <p align="center">
