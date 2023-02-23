@@ -1,10 +1,12 @@
-<h3 align="center">
-  Hey! I'm Deep Patel.
-</h3>
+
 
 ![githubgif](https://user-images.githubusercontent.com/103757105/220807401-d840230e-8488-418e-b7f2-26ff804ecacd.gif)
 
-**`Student @ Toronto Metropolitan University`**
+<h3 align="center">
+  Hey! I'm Deep Patel.
+  **`Student @ Toronto Metropolitan University`**
+</h3>
+
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
 * Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
