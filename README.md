@@ -10,6 +10,8 @@
   SWE Student @ Toronto Metropolitan University
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>
+
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
 * Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
