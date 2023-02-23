@@ -12,7 +12,8 @@
   SWE Student @ Toronto Metropolitan University
 </p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
+
+![loadingbar](https://user-images.githubusercontent.com/103757105/220808880-7fa7fa95-02a1-41d2-a90f-0fc5e8161dd3.gif)
 
 
 * Degree: Bachelor of Computer Engineering (Software Stream)
@@ -27,6 +28,8 @@
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-000?&logo=Java&logoColor=007396&?style=for-the-badge)
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-000?&logo=Python&?style=for-the-badge)
 ![C](https://custom-icon-badges.demolab.com/badge/-C-000?&logo=C&?style=for-the-badge) -->
+
+<p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-patel21&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-patel21&langs_count=8&count_private=true&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
