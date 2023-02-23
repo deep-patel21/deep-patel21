@@ -1,4 +1,7 @@
-# Hey! I'm Deep Patel.
+<h3 align="center">
+  # Hey! I'm Deep Patel.
+</h3>
+
 ![githubgif](https://user-images.githubusercontent.com/103757105/220807011-0c708531-f02c-4d3c-a83d-293acdb7b494.gif)
 **`Student @ Toronto Metropolitan University`**
 * Degree: Bachelor of Computer Engineering (Software Stream)
