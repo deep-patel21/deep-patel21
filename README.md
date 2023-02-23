@@ -12,9 +12,7 @@
   SWE Student @ Toronto Metropolitan University
 </p>
 
-
-![loadingbar](https://user-images.githubusercontent.com/103757105/220808880-7fa7fa95-02a1-41d2-a90f-0fc5e8161dd3.gif)
-
+![loadingbar](https://user-images.githubusercontent.com/103757105/220808963-7ba1d47a-4b21-4b44-b339-a92509688165.gif)
 
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
