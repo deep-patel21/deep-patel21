@@ -5,7 +5,7 @@
 <h3 align="center">
   <div>
     Hey! I'm Deep Patel.
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
+    <p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
   </div>
 </h3>
 
