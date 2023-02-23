@@ -10,8 +10,6 @@
   SWE Student @ Toronto Metropolitan University
 </p>
 
- ![loadingbar](https://user-images.githubusercontent.com/103757105/220807822-68246758-800d-4088-8a10-3f2d80860317.gif)
-
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
 * Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
