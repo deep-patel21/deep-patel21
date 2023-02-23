@@ -5,7 +5,6 @@
 <h3 align="center">
   <div>
     Hey! I'm Deep Patel.
-    <p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
   </div>
 </h3>
 
@@ -13,6 +12,7 @@
   SWE Student @ Toronto Metropolitan University
 </p>
 
+<p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
 
 
 * Degree: Bachelor of Computer Engineering (Software Stream)
