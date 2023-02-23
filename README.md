@@ -4,13 +4,14 @@
 
 <h3 align="center">
   Hey! I'm Deep Patel.
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>
 </h3>
 
 <p align="center">
   SWE Student @ Toronto Metropolitan University
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>
+
 
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
