@@ -6,7 +6,9 @@
   Hey! I'm Deep Patel.
 </h3>
 
+<p align="center">
  **`Student @ Toronto Metropolitan University`**
+</p>
  
 * Degree: Bachelor of Computer Engineering (Software Stream)
 * Contact: deepstudios21@gmail.com
