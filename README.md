@@ -16,7 +16,9 @@
 
 <h3>
   Degree: Bachelor of Computer Engineering (Software Stream)<br>
+  <br>
   Contact: deepstudios21@gmail.com<br>
+  <br>
   Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a><br>
 </h3>
 
