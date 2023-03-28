@@ -15,10 +15,11 @@
 ![loadingbar](https://user-images.githubusercontent.com/103757105/220808963-7ba1d47a-4b21-4b44-b339-a92509688165.gif)
 
 <h3>
- Degree: Bachelor of Computer Engineering (Software Stream)
- Contact: deepstudios21@gmail.com
- Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
+  Degree: Bachelor of Computer Engineering (Software Stream)
+  Contact: deepstudios21@gmail.com
+  Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
 </h3>
+
 
 <p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
 
