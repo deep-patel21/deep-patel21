@@ -20,7 +20,6 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
 
-# Skills and Tools
 </div>
   <h2 align="center">Languages and Tools:</h2>
   <p align="center"> 
