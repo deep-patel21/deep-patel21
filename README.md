@@ -24,7 +24,7 @@
 </div>
   <h2 align="center">Languages and Tools:</h2>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?   i=html, css, javascript, arduino, c, java, python, linux, git, github, discord, pygame, pymunk, numpy&perline=10">
+    <img src="https://skillicons.dev/icons?i=html, css, javascript, arduino, c, java, python, linux, git, github, discord, pygame, pymunk, numpy&perline=10">
   </p>
   <h2 align="center">GitHub Stats:</h3>
 <div align="center">
