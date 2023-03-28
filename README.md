@@ -29,7 +29,6 @@
   <p align="center"> 
     <img src="https://skillicons.dev/icons?i=html,css,javascript,arduino,c,java,python,linux,git,github,discord,pygame,pymunk,numpy&perline=10">
   </p>
-  ![loadingbar](https://user-images.githubusercontent.com/103757105/220808963-7ba1d47a-4b21-4b44-b339-a92509688165.gif)
   <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 
