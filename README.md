@@ -12,7 +12,7 @@
   SWE Student @ Toronto Metropolitan University
 </h2>
 
-![loadingbar](https://user-images.githubusercontent.com/103757105/220808963-7ba1d47a-4b21-4b44-b339-a92509688165.gif)
+---
 
 <h3>
   Degree: Bachelor of Computer Engineering (Software Stream)<br>
