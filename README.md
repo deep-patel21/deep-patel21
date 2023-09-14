@@ -25,7 +25,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
 
-![loadingbar](https://user-images.githubusercontent.com/103757105/220808963-7ba1d47a-4b21-4b44-b339-a92509688165.gif)
+***
 
 </div>
   <h2 align="center">Languages and Tools:</h2>
