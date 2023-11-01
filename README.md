@@ -30,7 +30,7 @@
 </div>
   <h2 align="center">Languages and Tools:</h2>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,arduino,c,cpp,java,python,linux,git,github,latex,eclipse,vscode,ps,ableton,discord,blender,figma,matlab,netlify,bootstrap,ansible,regex&perline=12">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,arduino,c,cpp,java,python,linux,git,github,latex,eclipse,vscode,ps,slack,blender,figma,matlab,netlify,bootstrap,ansible,regex&perline=12">
   </p>
   <h2 align="center">GitHub Stats:</h3>
 <div align="center">
