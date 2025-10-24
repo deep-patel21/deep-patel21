@@ -19,9 +19,6 @@
   Check out my <a href="https://www.linkedin.com/in/dpatel3337/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a><br>
 </h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=deep-patel21&style=for-the-badge&color=0a2647"> </p>  
-
-
 ---
 
 </div>
