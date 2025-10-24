@@ -1,7 +1,4 @@
 
-
-![githubgif](https://user-images.githubusercontent.com/103757105/220807401-d840230e-8488-418e-b7f2-26ff804ecacd.gif)
-
 <h1 align="center">
   <div>
     Hey! I'm Deep Patel.
